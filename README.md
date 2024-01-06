@@ -1,5 +1,7 @@
 # Proyecto Final MLOps ITBA - Implementacion dbt
 
+#### Video: https://drive.google.com/file/d/1OFx8BNHOS0CtwCPDKnADGIDvgoHyKIrg/view?usp=sharing
+
 ### Using the starter project
 
 Try running the following commands:
